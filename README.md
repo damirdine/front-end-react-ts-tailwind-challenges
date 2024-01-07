@@ -20,7 +20,7 @@ Frontend Mentor offre une série de défis pour améliorer vos compétences en d
 1. Clonez le dépôt à l'aide de la commande suivante : `git clone https://github.com/damirdine/front-end-react-ts-tailwind-challenges.git`
 2. Accédez au dossier du projet : `cd front-end-react-ts-tailwind-challenges`
 3. Installez les dépendances du projet avec npm ou yarn : `npm install`
-4. Démarrez le serveur de développement : `npm start`
+4. Démarrez le serveur de développement : `npm run dev`
 
 ## Utilisation
 
